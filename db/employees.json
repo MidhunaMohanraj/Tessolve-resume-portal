@@ -1,0 +1,2452 @@
+[
+  {
+    "emp_id": "10191",
+    "full_name": "Parthiban Pavadai Balan",
+    "role": "manager",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "10677",
+    "full_name": "Raghunath Ramesh Channagiri",
+    "role": "manager",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "11616",
+    "full_name": "Mantu Kumar",
+    "role": "manager",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "12287",
+    "full_name": "Praroop Surendran",
+    "role": "manager",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "12305",
+    "full_name": "Mugesh Subramanian",
+    "role": "manager",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "12686",
+    "full_name": "Pranay R.V",
+    "role": "manager",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "12922",
+    "full_name": "Varma Selvaraj",
+    "role": "manager",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "13240",
+    "full_name": "Mahesh Kumar R",
+    "role": "manager",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "4731",
+    "full_name": "Suhasini Maddineni",
+    "role": "manager",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "11558",
+    "full_name": "Raffique H",
+    "role": "techlead",
+    "manager_id": "10100",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "11741",
+    "full_name": "Aswanth Raja",
+    "role": "techlead",
+    "manager_id": "10100",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "12533",
+    "full_name": "Rahul Tripathi",
+    "role": "techlead",
+    "manager_id": "10100",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "4490",
+    "full_name": "Prasob Puthuvakkal",
+    "role": "techlead",
+    "manager_id": "12633",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "11775",
+    "full_name": "Balamurugan Durairajan",
+    "role": "techlead",
+    "manager_id": "12633",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "2772",
+    "full_name": "Malku Marshkole",
+    "role": "techlead",
+    "manager_id": "10191",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "2989",
+    "full_name": "Sathya Sai Prasad Sandur",
+    "role": "techlead",
+    "manager_id": "10191",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "3218",
+    "full_name": "Sriram Chandra Murty Konduri",
+    "role": "techlead",
+    "manager_id": "10191",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "4723",
+    "full_name": "Dulasiayya Kathamuthu",
+    "role": "techlead",
+    "manager_id": "10191",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "10100",
+    "full_name": "Deepak Nagaraju",
+    "role": "techlead",
+    "manager_id": "10191",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "10606",
+    "full_name": "Sabarathinam Loganathan",
+    "role": "techlead",
+    "manager_id": "10191",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "11353",
+    "full_name": "Sivaraman Pandiyan",
+    "role": "techlead",
+    "manager_id": "10191",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "12633",
+    "full_name": "Mani Athankarayan",
+    "role": "techlead",
+    "manager_id": "10191",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "12704",
+    "full_name": "Basavaraju Gandla",
+    "role": "techlead",
+    "manager_id": "10191",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "10396",
+    "full_name": "Subrahmanyam Polisetty",
+    "role": "techlead",
+    "manager_id": "10606",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "11204",
+    "full_name": "Amulya Balehonnur Ramesh",
+    "role": "techlead",
+    "manager_id": "10606",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "12267",
+    "full_name": "Saravana Kumar Kuppan",
+    "role": "techlead",
+    "manager_id": "10606",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "4976",
+    "full_name": "Manohara Honnalagere Nataraj",
+    "role": "techlead",
+    "manager_id": "12922",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "10039",
+    "full_name": "Shafivulla Khan Pattan",
+    "role": "techlead",
+    "manager_id": "12922",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "11985",
+    "full_name": "Thetchanamoorthy Chinnakani",
+    "role": "techlead",
+    "manager_id": "12922",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "13113",
+    "full_name": "Aurobinda Jena",
+    "role": "techlead",
+    "manager_id": "12922",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "11974",
+    "full_name": "Shanigarapu Krushnam Raju",
+    "role": "techlead",
+    "manager_id": "10677",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "12307",
+    "full_name": "Shrikrishna Bhat",
+    "role": "techlead",
+    "manager_id": "10677",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "12493",
+    "full_name": "Vanitha Basavarajappa",
+    "role": "techlead",
+    "manager_id": "10677",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "10225",
+    "full_name": "Madhukara Vitla Shreekanth",
+    "role": "techlead",
+    "manager_id": "12493",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "11285",
+    "full_name": "Santhosh Kumar Gaddameedi",
+    "role": "techlead",
+    "manager_id": "2772",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "13173",
+    "full_name": "Amit Chawla",
+    "role": "techlead",
+    "manager_id": "2772",
+    "techlead_id": null
+  },
+  {
+    "emp_id": "5310",
+    "full_name": "Yun-Cheng Zhang",
+    "role": "employee",
+    "manager_id": "10100",
+    "techlead_id": "10100"
+  },
+  {
+    "emp_id": "5331",
+    "full_name": "Bing Feng Lin",
+    "role": "employee",
+    "manager_id": "10100",
+    "techlead_id": "10100"
+  },
+  {
+    "emp_id": "5334",
+    "full_name": "Shao-Tang Hong",
+    "role": "employee",
+    "manager_id": "10100",
+    "techlead_id": "10100"
+  },
+  {
+    "emp_id": "7657",
+    "full_name": "Chinnabhandar Keshava Murthy Pavan",
+    "role": "employee",
+    "manager_id": "4723",
+    "techlead_id": "4723"
+  },
+  {
+    "emp_id": "12005",
+    "full_name": "Harivenkatesh Sivakumar",
+    "role": "employee",
+    "manager_id": "4723",
+    "techlead_id": "4723"
+  },
+  {
+    "emp_id": "12595",
+    "full_name": "Sanjith Rajan",
+    "role": "employee",
+    "manager_id": "4723",
+    "techlead_id": "4723"
+  },
+  {
+    "emp_id": "12599",
+    "full_name": "Praveenkumar Panneerselvam",
+    "role": "employee",
+    "manager_id": "4723",
+    "techlead_id": "4723"
+  },
+  {
+    "emp_id": "12606",
+    "full_name": "Dharshana Shri Sivasethupathi",
+    "role": "employee",
+    "manager_id": "4723",
+    "techlead_id": "4723"
+  },
+  {
+    "emp_id": "12610",
+    "full_name": "Prasanth Selvakumar",
+    "role": "employee",
+    "manager_id": "4723",
+    "techlead_id": "4723"
+  },
+  {
+    "emp_id": "13032",
+    "full_name": "Arvind Kulasai Ganesan",
+    "role": "employee",
+    "manager_id": "4723",
+    "techlead_id": "4723"
+  },
+  {
+    "emp_id": "T2032",
+    "full_name": "Mohan Kumar Rangasamy",
+    "role": "employee",
+    "manager_id": "4723",
+    "techlead_id": "4723"
+  },
+  {
+    "emp_id": "T1964",
+    "full_name": "Puvvula Tejaswi",
+    "role": "employee",
+    "manager_id": "4723",
+    "techlead_id": "4723"
+  },
+  {
+    "emp_id": "T2031",
+    "full_name": "Shaan Mohammed",
+    "role": "employee",
+    "manager_id": "4723",
+    "techlead_id": "4723"
+  },
+  {
+    "emp_id": "7697",
+    "full_name": "Aneesh Govindan",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "10355",
+    "full_name": "Deepak Chamalla",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "10405",
+    "full_name": "Malathesh Koteppa",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "10451",
+    "full_name": "Saiprasanth Muthusubramanian",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "10745",
+    "full_name": "Dhanarthi Natarasan",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "11390",
+    "full_name": "Ganesh Kolanjiappan",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "11920",
+    "full_name": "Sunith kumar Hungenahalli Puttanna",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "12609",
+    "full_name": "Purusothaman Chandiran",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "12705",
+    "full_name": "Manivardhan Reddy Yeruva",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "13268",
+    "full_name": "Puchakayala Akhila",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "T2033",
+    "full_name": "Sumalatha Chittiboina",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "T2067",
+    "full_name": "Amshu Chandrashekar",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "8090",
+    "full_name": "Tuan Mohamad Azali Tuan Yusoff",
+    "role": "employee",
+    "manager_id": "12633",
+    "techlead_id": "12633"
+  },
+  {
+    "emp_id": "7324",
+    "full_name": "Patrick Young",
+    "role": "employee",
+    "manager_id": "10191",
+    "techlead_id": "10191"
+  },
+  {
+    "emp_id": "7728",
+    "full_name": "Bruce Klein",
+    "role": "employee",
+    "manager_id": "10191",
+    "techlead_id": "10191"
+  },
+  {
+    "emp_id": "12291",
+    "full_name": "Shruti Gunasekar",
+    "role": "employee",
+    "manager_id": "10191",
+    "techlead_id": "10191"
+  },
+  {
+    "emp_id": "12801",
+    "full_name": "K Siva Krishna",
+    "role": "employee",
+    "manager_id": "10191",
+    "techlead_id": "10191"
+  },
+  {
+    "emp_id": "4494",
+    "full_name": "Kiruthika Tamilarasan",
+    "role": "employee",
+    "manager_id": "4490",
+    "techlead_id": "4490"
+  },
+  {
+    "emp_id": "10007",
+    "full_name": "Vinayagouda Ganganagouda Patil",
+    "role": "employee",
+    "manager_id": "4490",
+    "techlead_id": "4490"
+  },
+  {
+    "emp_id": "10054",
+    "full_name": "Arnold Joel Rajan Rajamony",
+    "role": "employee",
+    "manager_id": "4490",
+    "techlead_id": "4490"
+  },
+  {
+    "emp_id": "10106",
+    "full_name": "Ciril Jose",
+    "role": "employee",
+    "manager_id": "4490",
+    "techlead_id": "4490"
+  },
+  {
+    "emp_id": "10400",
+    "full_name": "Roopasree Kalisetty",
+    "role": "employee",
+    "manager_id": "4490",
+    "techlead_id": "4490"
+  },
+  {
+    "emp_id": "11393",
+    "full_name": "Krupa Mariam Jacob",
+    "role": "employee",
+    "manager_id": "4490",
+    "techlead_id": "4490"
+  },
+  {
+    "emp_id": "11776",
+    "full_name": "Aditya Kamalakara",
+    "role": "employee",
+    "manager_id": "4490",
+    "techlead_id": "4490"
+  },
+  {
+    "emp_id": "12761",
+    "full_name": "Vijayakumar Krishnamoorthi",
+    "role": "employee",
+    "manager_id": "4490",
+    "techlead_id": "4490"
+  },
+  {
+    "emp_id": "11535",
+    "full_name": "Gowthami Madaka",
+    "role": "employee",
+    "manager_id": "4490",
+    "techlead_id": "4490"
+  },
+  {
+    "emp_id": "11748",
+    "full_name": "Ramaprabha Devraj",
+    "role": "employee",
+    "manager_id": "4490",
+    "techlead_id": "4490"
+  },
+  {
+    "emp_id": "11309",
+    "full_name": "Yuvarani Kandasamy",
+    "role": "employee",
+    "manager_id": "11558",
+    "techlead_id": "11558"
+  },
+  {
+    "emp_id": "11473",
+    "full_name": "Thaiyal Nayagi",
+    "role": "employee",
+    "manager_id": "11558",
+    "techlead_id": "11558"
+  },
+  {
+    "emp_id": "13354",
+    "full_name": "Vallarsu Babu",
+    "role": "employee",
+    "manager_id": "11558",
+    "techlead_id": "11558"
+  },
+  {
+    "emp_id": "3225",
+    "full_name": "Dornadula Pavan Kumar",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "10061",
+    "full_name": "Anand Franklin Joseph",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "10390",
+    "full_name": "Abdul Ajeej Shaik",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "10551",
+    "full_name": "Manas Rawat",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "10611",
+    "full_name": "Srinivasa Rao Nagineni",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "10844",
+    "full_name": "Mounika Bolla",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "11796",
+    "full_name": "Bhavadharani S",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "11804",
+    "full_name": "Pradeep khare",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "11839",
+    "full_name": "Pooja Kumari",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "12110",
+    "full_name": "Avinash Shivkumar",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "12274",
+    "full_name": "Nareshkumar Muthazagan",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "12554",
+    "full_name": "Sundar Pandian Ravichandran",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "12562",
+    "full_name": "Manasa Makam",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "12613",
+    "full_name": "Sundar Ramasamy",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "12718",
+    "full_name": "Anju Mary Thomas",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "12748",
+    "full_name": "Basangouda Patil",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "12841",
+    "full_name": "Yadav Pritam Sonu",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "13104",
+    "full_name": "Jaganathan Palanisamy",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "10132",
+    "full_name": "Akshay Chanadrashekar",
+    "role": "employee",
+    "manager_id": "12533",
+    "techlead_id": "12533"
+  },
+  {
+    "emp_id": "12480",
+    "full_name": "Kiran Kumar Madappa Satyanarayana",
+    "role": "employee",
+    "manager_id": "11204",
+    "techlead_id": "11204"
+  },
+  {
+    "emp_id": "3180",
+    "full_name": "Krishnaram Seerangan",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "10407",
+    "full_name": "Shiva Kumar Bandaru",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "10408",
+    "full_name": "Gopala Krishna Vagadani",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "T1909",
+    "full_name": "Divya Shanmugasundaram",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "11485",
+    "full_name": "Ankit Gupta",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "12211",
+    "full_name": "Ashok Chandra Puchakayala Gurappa",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "12281",
+    "full_name": "Matheswaran Nalliyappan",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "12329",
+    "full_name": "Narendra Valluri",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "12739",
+    "full_name": "Yarramaraju Nandini",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "12952",
+    "full_name": "Vemula Renuka",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "12984",
+    "full_name": "Islavath Thirupathi Rao",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "13121",
+    "full_name": "Katakanuru Kiran",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "13223",
+    "full_name": "Kopparapu Sagar Banni",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "13326",
+    "full_name": "Aishwarya Ravichandran",
+    "role": "employee",
+    "manager_id": "10606",
+    "techlead_id": "10606"
+  },
+  {
+    "emp_id": "13091",
+    "full_name": "Santhanakrishnan Palanisamy",
+    "role": "employee",
+    "manager_id": "12267",
+    "techlead_id": "12267"
+  },
+  {
+    "emp_id": "11349",
+    "full_name": "Arumugam Sakthivel",
+    "role": "employee",
+    "manager_id": "11353",
+    "techlead_id": "11353"
+  },
+  {
+    "emp_id": "12448",
+    "full_name": "Jeffin Samuel Arul Raja",
+    "role": "employee",
+    "manager_id": "11353",
+    "techlead_id": "11353"
+  },
+  {
+    "emp_id": "12589",
+    "full_name": "Venkatesh Ummadi Setty",
+    "role": "employee",
+    "manager_id": "11353",
+    "techlead_id": "11353"
+  },
+  {
+    "emp_id": "12709",
+    "full_name": "Manju Sanne Gowda",
+    "role": "employee",
+    "manager_id": "11353",
+    "techlead_id": "11353"
+  },
+  {
+    "emp_id": "12927",
+    "full_name": "Santhosh G",
+    "role": "employee",
+    "manager_id": "11353",
+    "techlead_id": "11353"
+  },
+  {
+    "emp_id": "10053",
+    "full_name": "Santosh Kumar Munuganti",
+    "role": "employee",
+    "manager_id": "12922",
+    "techlead_id": "12922"
+  },
+  {
+    "emp_id": "10647",
+    "full_name": "Saibaba Madda",
+    "role": "employee",
+    "manager_id": "12922",
+    "techlead_id": "12922"
+  },
+  {
+    "emp_id": "12186",
+    "full_name": "Ashwini Bokde",
+    "role": "employee",
+    "manager_id": "12922",
+    "techlead_id": "12922"
+  },
+  {
+    "emp_id": "12508",
+    "full_name": "Ranjan Kumar Mohanty",
+    "role": "employee",
+    "manager_id": "12922",
+    "techlead_id": "12922"
+  },
+  {
+    "emp_id": "12838",
+    "full_name": "Kamble Shailesh Balkrishan",
+    "role": "employee",
+    "manager_id": "12922",
+    "techlead_id": "12922"
+  },
+  {
+    "emp_id": "12930",
+    "full_name": "Sunidhi Dixit",
+    "role": "employee",
+    "manager_id": "12922",
+    "techlead_id": "12922"
+  },
+  {
+    "emp_id": "13200",
+    "full_name": "Srikanth Bushipaka",
+    "role": "employee",
+    "manager_id": "12922",
+    "techlead_id": "12922"
+  },
+  {
+    "emp_id": "13249",
+    "full_name": "Abdul Latheef Mohamed",
+    "role": "employee",
+    "manager_id": "12922",
+    "techlead_id": "12922"
+  },
+  {
+    "emp_id": "11383",
+    "full_name": "GOGULANATH SIVAPRAKASAM",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "11797",
+    "full_name": "Mary Josephine A",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "12604",
+    "full_name": "Teechana Thiyagarajan",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "12611",
+    "full_name": "Sathishsharma Kannan",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "12828",
+    "full_name": "Raja Kumaran R",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "12831",
+    "full_name": "Ragul Rajkumar",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "T1816",
+    "full_name": "Adarsh Balanolla",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "T1926",
+    "full_name": "Nandini Muthireddy",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "T2114",
+    "full_name": "Sarranadhithiyaa Gowthem",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "T2016",
+    "full_name": "Soppimath Prajwal Kumar",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "T1959",
+    "full_name": "Midhuna Mohanraj",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "T2017",
+    "full_name": "Ronald Jefferson Aruldoss",
+    "role": "employee",
+    "manager_id": "11741",
+    "techlead_id": "11741"
+  },
+  {
+    "emp_id": "11900",
+    "full_name": "Umayal Meiyappan",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "11910",
+    "full_name": "Sankkara Narayanan Balakrishnan",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "12029",
+    "full_name": "Aishwarya Surendra Menasinakayi",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "12539",
+    "full_name": "Anju Babu Kumar",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "12540",
+    "full_name": "Dheeraj Bhumireddy Peddareddy",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "12541",
+    "full_name": "Guthikonda Padma Latha",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "12542",
+    "full_name": "Santhiya Jeyabalan",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "12556",
+    "full_name": "Shridhar Nadiger",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "12612",
+    "full_name": "Boomika Shanmugam",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "12746",
+    "full_name": "AbdulKarim AbdulQuyyaum Khan",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "12926",
+    "full_name": "Ramendra Singh",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "12970",
+    "full_name": "Priyanka Verma",
+    "role": "employee",
+    "manager_id": "11775",
+    "techlead_id": "11775"
+  },
+  {
+    "emp_id": "11854",
+    "full_name": "Rishikesan D",
+    "role": "employee",
+    "manager_id": "11974",
+    "techlead_id": "11974"
+  },
+  {
+    "emp_id": "12131",
+    "full_name": "Chandra Shekar Raj Kumar",
+    "role": "employee",
+    "manager_id": "11974",
+    "techlead_id": "11974"
+  },
+  {
+    "emp_id": "12142",
+    "full_name": "Sultan Bepari",
+    "role": "employee",
+    "manager_id": "11974",
+    "techlead_id": "11974"
+  },
+  {
+    "emp_id": "12271",
+    "full_name": "Balaji Nandagopal",
+    "role": "employee",
+    "manager_id": "11974",
+    "techlead_id": "11974"
+  },
+  {
+    "emp_id": "12921",
+    "full_name": "Arti Shankar Chavan",
+    "role": "employee",
+    "manager_id": "11974",
+    "techlead_id": "11974"
+  },
+  {
+    "emp_id": "13059",
+    "full_name": "Deepak Kumar Sahu",
+    "role": "employee",
+    "manager_id": "11974",
+    "techlead_id": "11974"
+  },
+  {
+    "emp_id": "13060",
+    "full_name": "Chandana Mrudula",
+    "role": "employee",
+    "manager_id": "11974",
+    "techlead_id": "11974"
+  },
+  {
+    "emp_id": "13176",
+    "full_name": "Pritish Rameshkumar Prajapati",
+    "role": "employee",
+    "manager_id": "11974",
+    "techlead_id": "11974"
+  },
+  {
+    "emp_id": "13265",
+    "full_name": "Pooja Achalkar",
+    "role": "employee",
+    "manager_id": "11974",
+    "techlead_id": "11974"
+  },
+  {
+    "emp_id": "11559",
+    "full_name": "Prabhakar Mekala",
+    "role": "employee",
+    "manager_id": "12307",
+    "techlead_id": "12307"
+  },
+  {
+    "emp_id": "11608",
+    "full_name": "Karthepan Prabakar",
+    "role": "employee",
+    "manager_id": "12307",
+    "techlead_id": "12307"
+  },
+  {
+    "emp_id": "10224",
+    "full_name": "Mamata Teggihalli",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "10437",
+    "full_name": "Devi Agraharapu",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "10823",
+    "full_name": "Suneel Konchada",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11531",
+    "full_name": "Dhanush Munagala",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11540",
+    "full_name": "Laxmi Tyapi",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11547",
+    "full_name": "Pratibha Hirekerur Bangarappa",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11586",
+    "full_name": "Vijay Palanisamy",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11660",
+    "full_name": "Sai Raghava Guduri",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11777",
+    "full_name": "Sree Lakshmi Channaiah",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11816",
+    "full_name": "Beemoju Naveen",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11820",
+    "full_name": "Aditya Dixit",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11916",
+    "full_name": "Selvanayahi Nachimuthu",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11960",
+    "full_name": "Revathi Satrasala",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11979",
+    "full_name": "Ancy Vincent",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "11991",
+    "full_name": "Shruti Shivayogi swamy",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "12019",
+    "full_name": "Veena Chaganti",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "12047",
+    "full_name": "Niketh MB",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "12076",
+    "full_name": "Arun Udayakumar",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "12113",
+    "full_name": "Swaroop Rajaram",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "12128",
+    "full_name": "Pavithra Kesavan",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "12130",
+    "full_name": "Salma Shaik",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "12245",
+    "full_name": "Omkar Kavitkar",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "12408",
+    "full_name": "Kishan Mahabala Billava",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "12590",
+    "full_name": "Vignesh Suresh",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "12826",
+    "full_name": "Venu Gopal M S",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "12892",
+    "full_name": "Boggula Venkatanarsi Reddy",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "13053",
+    "full_name": "Prashanth Sakthivel",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "13064",
+    "full_name": "Vaishvikkumar Dilipbhai Chaudhari",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "13100",
+    "full_name": "Madhukumar G",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "13140",
+    "full_name": "Maddi Akshay Kumar",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "13266",
+    "full_name": "Rajesh Arasappa",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "13272",
+    "full_name": "Sandeep N R",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "13316",
+    "full_name": "Chandan Nanjundappa",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "13320",
+    "full_name": "Sujay Sathya Murthy",
+    "role": "employee",
+    "manager_id": "12493",
+    "techlead_id": "12493"
+  },
+  {
+    "emp_id": "10020",
+    "full_name": "Jogendra narayana Monaboti",
+    "role": "employee",
+    "manager_id": "10225",
+    "techlead_id": "10225"
+  },
+  {
+    "emp_id": "10290",
+    "full_name": "Kaliyugathuayyan Venkatachalam",
+    "role": "employee",
+    "manager_id": "10225",
+    "techlead_id": "10225"
+  },
+  {
+    "emp_id": "10466",
+    "full_name": "Shalini Jegadeesan",
+    "role": "employee",
+    "manager_id": "10225",
+    "techlead_id": "10225"
+  },
+  {
+    "emp_id": "10267",
+    "full_name": "Siva Sankarareddy valluri",
+    "role": "employee",
+    "manager_id": "10225",
+    "techlead_id": "10225"
+  },
+  {
+    "emp_id": "12598",
+    "full_name": "Pravin Kumarappan",
+    "role": "employee",
+    "manager_id": "13113",
+    "techlead_id": "13113"
+  },
+  {
+    "emp_id": "12608",
+    "full_name": "Hari Jagadeesh",
+    "role": "employee",
+    "manager_id": "13113",
+    "techlead_id": "13113"
+  },
+  {
+    "emp_id": "12957",
+    "full_name": "Sushma Shivaram Hegde",
+    "role": "employee",
+    "manager_id": "13113",
+    "techlead_id": "13113"
+  },
+  {
+    "emp_id": "12596",
+    "full_name": "Krishna Kumar Dhanabalan",
+    "role": "employee",
+    "manager_id": "13113",
+    "techlead_id": "13113"
+  },
+  {
+    "emp_id": "11513",
+    "full_name": "Sachin Ramanathan",
+    "role": "employee",
+    "manager_id": "13113",
+    "techlead_id": "13113"
+  },
+  {
+    "emp_id": "12150",
+    "full_name": "Susmita Rauta",
+    "role": "employee",
+    "manager_id": "13240",
+    "techlead_id": "13240"
+  },
+  {
+    "emp_id": "12231",
+    "full_name": "Mylapalli Ruthvik Kumar",
+    "role": "employee",
+    "manager_id": "13240",
+    "techlead_id": "13240"
+  },
+  {
+    "emp_id": "12513",
+    "full_name": "Sreekesh P",
+    "role": "employee",
+    "manager_id": "13240",
+    "techlead_id": "13240"
+  },
+  {
+    "emp_id": "12602",
+    "full_name": "Aarthi Saravanan",
+    "role": "employee",
+    "manager_id": "13240",
+    "techlead_id": "13240"
+  },
+  {
+    "emp_id": "13302",
+    "full_name": "Suresh Shankar Kadam",
+    "role": "employee",
+    "manager_id": "13240",
+    "techlead_id": "13240"
+  },
+  {
+    "emp_id": "13317",
+    "full_name": "Shekhar Suresh Mahajan",
+    "role": "employee",
+    "manager_id": "13240",
+    "techlead_id": "13240"
+  },
+  {
+    "emp_id": "13327",
+    "full_name": "Ragul Murugan",
+    "role": "employee",
+    "manager_id": "13240",
+    "techlead_id": "13240"
+  },
+  {
+    "emp_id": "13328",
+    "full_name": "Logesh Sundarraj",
+    "role": "employee",
+    "manager_id": "13240",
+    "techlead_id": "13240"
+  },
+  {
+    "emp_id": "12662",
+    "full_name": "Ajeet Anand",
+    "role": "employee",
+    "manager_id": "4976",
+    "techlead_id": "4976"
+  },
+  {
+    "emp_id": "12796",
+    "full_name": "Siddu Vijetha Lakshmi",
+    "role": "employee",
+    "manager_id": "4976",
+    "techlead_id": "4976"
+  },
+  {
+    "emp_id": "12603",
+    "full_name": "Arun Karthikeyan",
+    "role": "employee",
+    "manager_id": "4976",
+    "techlead_id": "4976"
+  },
+  {
+    "emp_id": "12740",
+    "full_name": "Vinutha Thimmarayappa",
+    "role": "employee",
+    "manager_id": "4976",
+    "techlead_id": "4976"
+  },
+  {
+    "emp_id": "13209",
+    "full_name": "Aloysius Immanuel",
+    "role": "employee",
+    "manager_id": "4976",
+    "techlead_id": "4976"
+  },
+  {
+    "emp_id": "12469",
+    "full_name": "Harish Babu Saravanakumar",
+    "role": "employee",
+    "manager_id": "4976",
+    "techlead_id": "4976"
+  },
+  {
+    "emp_id": "12967",
+    "full_name": "Venkata latesh Kommuri",
+    "role": "employee",
+    "manager_id": "4976",
+    "techlead_id": "4976"
+  },
+  {
+    "emp_id": "12485",
+    "full_name": "Sri Siva Charan Thimmaraju",
+    "role": "employee",
+    "manager_id": "11616",
+    "techlead_id": "11616"
+  },
+  {
+    "emp_id": "12101",
+    "full_name": "Laxman Jambagi",
+    "role": "employee",
+    "manager_id": "11616",
+    "techlead_id": "11616"
+  },
+  {
+    "emp_id": "12506",
+    "full_name": "Inzamam Nizaarahamed",
+    "role": "employee",
+    "manager_id": "11616",
+    "techlead_id": "11616"
+  },
+  {
+    "emp_id": "4969",
+    "full_name": "Saif Shaik",
+    "role": "employee",
+    "manager_id": "11616",
+    "techlead_id": "11616"
+  },
+  {
+    "emp_id": "12269",
+    "full_name": "Adithya Chandrashekar",
+    "role": "employee",
+    "manager_id": "12305",
+    "techlead_id": "12305"
+  },
+  {
+    "emp_id": "13175",
+    "full_name": "Pranavprasad M",
+    "role": "employee",
+    "manager_id": "12305",
+    "techlead_id": "12305"
+  },
+  {
+    "emp_id": "13174",
+    "full_name": "Gokul Sakthivelrajan",
+    "role": "employee",
+    "manager_id": "12305",
+    "techlead_id": "12305"
+  },
+  {
+    "emp_id": "T2178",
+    "full_name": "Manisha Shivakumar",
+    "role": "employee",
+    "manager_id": "12305",
+    "techlead_id": "12305"
+  },
+  {
+    "emp_id": "T1896",
+    "full_name": "Santhosh Suresh",
+    "role": "employee",
+    "manager_id": "12305",
+    "techlead_id": "12305"
+  },
+  {
+    "emp_id": "T1895",
+    "full_name": "Sivakumar Kumarasamy",
+    "role": "employee",
+    "manager_id": "12305",
+    "techlead_id": "12305"
+  },
+  {
+    "emp_id": "T1899",
+    "full_name": "Dineshkumar Balamurugan",
+    "role": "employee",
+    "manager_id": "12305",
+    "techlead_id": "12305"
+  },
+  {
+    "emp_id": "T1901",
+    "full_name": "Hemapriya Venkatraju",
+    "role": "employee",
+    "manager_id": "12305",
+    "techlead_id": "12305"
+  },
+  {
+    "emp_id": "T2030",
+    "full_name": "Shaik Sameer",
+    "role": "employee",
+    "manager_id": "12305",
+    "techlead_id": "12305"
+  },
+  {
+    "emp_id": "T1898",
+    "full_name": "Sujitha Sakthivel",
+    "role": "employee",
+    "manager_id": "12305",
+    "techlead_id": "12305"
+  },
+  {
+    "emp_id": "12074",
+    "full_name": "Manjeet Kaur",
+    "role": "employee",
+    "manager_id": "12686",
+    "techlead_id": "12686"
+  },
+  {
+    "emp_id": "10299",
+    "full_name": "Shilpa Ramesh",
+    "role": "employee",
+    "manager_id": "12686",
+    "techlead_id": "12686"
+  },
+  {
+    "emp_id": "12270",
+    "full_name": "Venkatesh Jallu",
+    "role": "employee",
+    "manager_id": "12686",
+    "techlead_id": "12686"
+  },
+  {
+    "emp_id": "12236",
+    "full_name": "Akshay Chandrashekharappa",
+    "role": "employee",
+    "manager_id": "12686",
+    "techlead_id": "12686"
+  },
+  {
+    "emp_id": "12601",
+    "full_name": "Saravana Vignesh",
+    "role": "employee",
+    "manager_id": "12686",
+    "techlead_id": "12686"
+  },
+  {
+    "emp_id": "12353",
+    "full_name": "Sompalli Shanthi",
+    "role": "employee",
+    "manager_id": "12686",
+    "techlead_id": "12686"
+  },
+  {
+    "emp_id": "12649",
+    "full_name": "Chalivendra Tejaswi",
+    "role": "employee",
+    "manager_id": "12287",
+    "techlead_id": "12287"
+  },
+  {
+    "emp_id": "13102",
+    "full_name": "Harshavardhan Hari Baskar",
+    "role": "employee",
+    "manager_id": "12287",
+    "techlead_id": "12287"
+  },
+  {
+    "emp_id": "12710",
+    "full_name": "Vandavasi Hemanth",
+    "role": "employee",
+    "manager_id": "12287",
+    "techlead_id": "12287"
+  },
+  {
+    "emp_id": "12765",
+    "full_name": "Galla Vaishnavi",
+    "role": "employee",
+    "manager_id": "12287",
+    "techlead_id": "12287"
+  },
+  {
+    "emp_id": "12235",
+    "full_name": "Lavanya Siddagangaiah",
+    "role": "employee",
+    "manager_id": "12287",
+    "techlead_id": "12287"
+  },
+  {
+    "emp_id": "12526",
+    "full_name": "Veera venkata subrahmanya akash Gorthy",
+    "role": "employee",
+    "manager_id": "12287",
+    "techlead_id": "12287"
+  },
+  {
+    "emp_id": "12086",
+    "full_name": "Srikanth Kurapati",
+    "role": "employee",
+    "manager_id": "10039",
+    "techlead_id": "10039"
+  },
+  {
+    "emp_id": "12120",
+    "full_name": "Yedukondalu Mallabattini",
+    "role": "employee",
+    "manager_id": "10039",
+    "techlead_id": "10039"
+  },
+  {
+    "emp_id": "12226",
+    "full_name": "Sheik Fayaz",
+    "role": "employee",
+    "manager_id": "10039",
+    "techlead_id": "10039"
+  },
+  {
+    "emp_id": "12727",
+    "full_name": "Nithisan Kesani",
+    "role": "employee",
+    "manager_id": "10039",
+    "techlead_id": "10039"
+  },
+  {
+    "emp_id": "12781",
+    "full_name": "Kalyan Ram Gopi",
+    "role": "employee",
+    "manager_id": "10039",
+    "techlead_id": "10039"
+  },
+  {
+    "emp_id": "12627",
+    "full_name": "Paurohitha Sunil Aravind Char",
+    "role": "employee",
+    "manager_id": "4731",
+    "techlead_id": "4731"
+  },
+  {
+    "emp_id": "11500",
+    "full_name": "Konatham Babu",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "11619",
+    "full_name": "MichaelRaj David Stalin",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12349",
+    "full_name": "Vyshnavi Thummalapalli",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12534",
+    "full_name": "Hemalatha Bharathi",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12588",
+    "full_name": "Mujamil Reddy Palli",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12591",
+    "full_name": "Kaviya Sellappan",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12592",
+    "full_name": "Ashwini Madikeshwar",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12638",
+    "full_name": "Gosetty Rama Prasad",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12757",
+    "full_name": "Nikhil Pramod Kumar",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12821",
+    "full_name": "Shreyas Sanjay Pandhe",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12822",
+    "full_name": "Pramod Sharanappagouda Ullagaddi",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12929",
+    "full_name": "Chennamadhavuni Sahithi",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12951",
+    "full_name": "Sushmita Sen",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "13054",
+    "full_name": "Singam Bharath Reddy",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "13107",
+    "full_name": "Sai Dhanush M",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "13153",
+    "full_name": "Monisha P S",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "13168",
+    "full_name": "Madheswaran Nallasivam",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "13170",
+    "full_name": "Suhas Mutalik",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "13310",
+    "full_name": "Naga Prasanna Kamana",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "T1887",
+    "full_name": "Gangaraju Renuka Ratna Hasitha",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "T1891",
+    "full_name": "Keerthana Radhakrishnan",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12743",
+    "full_name": "Purushotham Donthula",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "T1889",
+    "full_name": "Santhoshi Baradhan",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12594",
+    "full_name": "Stenika Titus",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12525",
+    "full_name": "Shri Raksha",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "13306",
+    "full_name": "Vivek Ramaiah",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "11827",
+    "full_name": "Arihant Baid",
+    "role": "employee",
+    "manager_id": "11985",
+    "techlead_id": "11985"
+  },
+  {
+    "emp_id": "12505",
+    "full_name": "Ajmeera Surendar",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "11988",
+    "full_name": "Balaji Vaithiyanathan",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "11932",
+    "full_name": "Gowtham C",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12520",
+    "full_name": "Harsha Tejitha Talloju",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12317",
+    "full_name": "Jagadeeshwar Reddy Pakala",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "13036",
+    "full_name": "Kadumur Dheeraj",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12437",
+    "full_name": "Kalicharan Matham",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "13263",
+    "full_name": "Kasi Viswanath Koduru",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12314",
+    "full_name": "kotlo Udaykumar Reddy",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "4497",
+    "full_name": "Lakshmi Alekhya Govardhanam",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12470",
+    "full_name": "Lokeswari Kalla",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "13298",
+    "full_name": "Madakala Teja",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "10461",
+    "full_name": "Mareeshwaran Kandasamy",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "13269",
+    "full_name": "Meghana Dadi",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12797",
+    "full_name": "Madhavi Velpula",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12232",
+    "full_name": "Pallapothula Naga Manohar",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "13284",
+    "full_name": "Prahalad R Kondamarri",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "11626",
+    "full_name": "Pundukura Giri Babu",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "13285",
+    "full_name": "Ravikanth Suram",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12403",
+    "full_name": "Ravikumar Bikki",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12670",
+    "full_name": "Reddy Vidya",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "13247",
+    "full_name": "Sagar Rajamallu Yennam",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12149",
+    "full_name": "Snehal Tanaji Powar",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12161",
+    "full_name": "Srinath Madyalabanda",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12741",
+    "full_name": "Srinivasa Raju Chennupai",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "10460",
+    "full_name": "Syed Hashim Ali Khan",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "12241",
+    "full_name": "Venugopal Reddy Kurre",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "13242",
+    "full_name": "Ippili Chandrashekar",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "10358",
+    "full_name": "Navya Sri Gutti",
+    "role": "employee",
+    "manager_id": "12704",
+    "techlead_id": "12704"
+  },
+  {
+    "emp_id": "4150",
+    "full_name": "Saju Thomas",
+    "role": "employee",
+    "manager_id": "2772",
+    "techlead_id": "2772"
+  },
+  {
+    "emp_id": "12676",
+    "full_name": "Sidagam Satish",
+    "role": "employee",
+    "manager_id": "13173",
+    "techlead_id": "13173"
+  },
+  {
+    "emp_id": "12808",
+    "full_name": "Tummala Rishi Gopal",
+    "role": "employee",
+    "manager_id": "13173",
+    "techlead_id": "13173"
+  },
+  {
+    "emp_id": "13098",
+    "full_name": "Reena Singh",
+    "role": "employee",
+    "manager_id": "13173",
+    "techlead_id": "13173"
+  },
+  {
+    "emp_id": "13099",
+    "full_name": "Prasanna Bommareddy",
+    "role": "employee",
+    "manager_id": "13173",
+    "techlead_id": "13173"
+  },
+  {
+    "emp_id": "13303",
+    "full_name": "Gurka Hema Sekhar Reddy",
+    "role": "employee",
+    "manager_id": "13173",
+    "techlead_id": "13173"
+  },
+  {
+    "emp_id": "T1903",
+    "full_name": "Antonyvasanth Jeyakumar",
+    "role": "employee",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "T1929",
+    "full_name": "Mathivannan Sundarapandiyan",
+    "role": "employee",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "T1920",
+    "full_name": "Hema Malini",
+    "role": "employee",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "3969",
+    "full_name": "Nagaraju Chalumuri",
+    "role": "employee",
+    "manager_id": "11285",
+    "techlead_id": "11285"
+  },
+  {
+    "emp_id": "4423",
+    "full_name": "Utpal Kant",
+    "role": "employee",
+    "manager_id": "11285",
+    "techlead_id": "11285"
+  },
+  {
+    "emp_id": "10249",
+    "full_name": "Shamil Khan",
+    "role": "employee",
+    "manager_id": "11285",
+    "techlead_id": "11285"
+  },
+  {
+    "emp_id": "10293",
+    "full_name": "Ramanujan Kasthuri Rangan",
+    "role": "employee",
+    "manager_id": "11285",
+    "techlead_id": "11285"
+  },
+  {
+    "emp_id": "12017",
+    "full_name": "Shree Lakshmi Dodde Gowda",
+    "role": "employee",
+    "manager_id": "11285",
+    "techlead_id": "11285"
+  },
+  {
+    "emp_id": "12018",
+    "full_name": "Venu Nagaraju",
+    "role": "employee",
+    "manager_id": "11285",
+    "techlead_id": "11285"
+  },
+  {
+    "emp_id": "11852",
+    "full_name": "Ashwini Jagannath",
+    "role": "employee",
+    "manager_id": "11285",
+    "techlead_id": "11285"
+  },
+  {
+    "emp_id": "12581",
+    "full_name": "Soma Sekhar Reddy Keesari",
+    "role": "employee",
+    "manager_id": "11285",
+    "techlead_id": "11285"
+  },
+  {
+    "emp_id": "12755",
+    "full_name": "Motheesh Jonnagorakala",
+    "role": "employee",
+    "manager_id": "11285",
+    "techlead_id": "11285"
+  },
+  {
+    "emp_id": "4430",
+    "full_name": "Vamsi Krishna Annam",
+    "role": "employee",
+    "manager_id": "10396",
+    "techlead_id": "10396"
+  },
+  {
+    "emp_id": "10536",
+    "full_name": "Shashank Vishwaradhya",
+    "role": "employee",
+    "manager_id": "10396",
+    "techlead_id": "10396"
+  },
+  {
+    "emp_id": "11177",
+    "full_name": "Muthunarayanan Selvaraja",
+    "role": "employee",
+    "manager_id": "10396",
+    "techlead_id": "10396"
+  },
+  {
+    "emp_id": "12840",
+    "full_name": "Gurram Balasouri Reddy",
+    "role": "employee",
+    "manager_id": "10396",
+    "techlead_id": "10396"
+  },
+  {
+    "emp_id": "4416",
+    "full_name": "Mohammed Sayeed Khan",
+    "role": "employee",
+    "manager_id": "2989",
+    "techlead_id": "2989"
+  },
+  {
+    "emp_id": "10139",
+    "full_name": "Manjunatha Dasappa",
+    "role": "employee",
+    "manager_id": "2989",
+    "techlead_id": "2989"
+  },
+  {
+    "emp_id": "11384",
+    "full_name": "Nagesh Nagaraj",
+    "role": "employee",
+    "manager_id": "2989",
+    "techlead_id": "2989"
+  },
+  {
+    "emp_id": "11670",
+    "full_name": "BharathKumar ER",
+    "role": "employee",
+    "manager_id": "2989",
+    "techlead_id": "2989"
+  },
+  {
+    "emp_id": "12557",
+    "full_name": "Suvedha Sweety Kennady",
+    "role": "employee",
+    "manager_id": "2989",
+    "techlead_id": "2989"
+  },
+  {
+    "emp_id": "12637",
+    "full_name": "Rajesh Govindu",
+    "role": "employee",
+    "manager_id": "2989",
+    "techlead_id": "2989"
+  },
+  {
+    "emp_id": "13109",
+    "full_name": "Shrinidhi Gopal Ayi",
+    "role": "employee",
+    "manager_id": "2989",
+    "techlead_id": "2989"
+  },
+  {
+    "emp_id": "13289",
+    "full_name": "Balkis Mahammad",
+    "role": "employee",
+    "manager_id": "2989",
+    "techlead_id": "2989"
+  },
+  {
+    "emp_id": "12607",
+    "full_name": "Soundarajan Mani",
+    "role": "employee",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "12614",
+    "full_name": "Vasanthakumar Ravi",
+    "role": "employee",
+    "manager_id": null,
+    "techlead_id": null
+  },
+  {
+    "emp_id": "2296",
+    "full_name": "Suresh Kannan",
+    "role": "employee",
+    "manager_id": "3218",
+    "techlead_id": "3218"
+  },
+  {
+    "emp_id": "3996",
+    "full_name": "Mahendra Kumar Raja",
+    "role": "employee",
+    "manager_id": "3218",
+    "techlead_id": "3218"
+  },
+  {
+    "emp_id": "11158",
+    "full_name": "Paramagond Jamagoudar",
+    "role": "employee",
+    "manager_id": "3218",
+    "techlead_id": "3218"
+  },
+  {
+    "emp_id": "11851",
+    "full_name": "Abhighna Sharma",
+    "role": "employee",
+    "manager_id": "3218",
+    "techlead_id": "3218"
+  },
+  {
+    "emp_id": "12936",
+    "full_name": "Neel Aryan Tripathi",
+    "role": "employee",
+    "manager_id": "3218",
+    "techlead_id": "3218"
+  },
+  {
+    "emp_id": "13171",
+    "full_name": "Divya Dharshini M",
+    "role": "employee",
+    "manager_id": "3218",
+    "techlead_id": "3218"
+  },
+  {
+    "emp_id": "13172",
+    "full_name": "Subha J J",
+    "role": "employee",
+    "manager_id": "3218",
+    "techlead_id": "3218"
+  },
+  {
+    "emp_id": "13299",
+    "full_name": "Kavinadhithya Jayachanthrran Sasirekha",
+    "role": "employee",
+    "manager_id": "3218",
+    "techlead_id": "3218"
+  },
+  {
+    "emp_id": "13323",
+    "full_name": "Saran Sekar",
+    "role": "employee",
+    "manager_id": "3218",
+    "techlead_id": "3218"
+  },
+  {
+    "emp_id": "13324",
+    "full_name": "Sulochini Subiramani",
+    "role": "employee",
+    "manager_id": "3218",
+    "techlead_id": "3218"
+  }
+]
