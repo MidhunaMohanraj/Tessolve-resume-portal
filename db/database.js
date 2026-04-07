@@ -3,7 +3,7 @@
 const fs   = require('fs');
 const path = require('path');
 const bcrypt = require('bcryptjs');
-
+const db
 const DB_DIR = path.join(__dirname, 'data');
 if (!fs.existsSync(DB_DIR)) fs.mkdirSync(DB_DIR, { recursive: true });
 
