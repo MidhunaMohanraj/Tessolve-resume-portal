@@ -2,7 +2,7 @@ const express = require('express');
 const router  = express.Router();
 const bcrypt  = require('bcryptjs');
 const db      = require('../db/database');
-
+  
 router.post('/login', (req, res) => {
   const { username, password } = req.body;
   if (!username || !password)
